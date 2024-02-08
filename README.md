@@ -29,3 +29,13 @@ Pour exécuter ce projet localement, vous devez avoir Python installé sur votre
 ```bash
 pip install -r requirements.txt
 ```
+
+Vous pouvez ensuite ouvrir le Jupyter Notebook (Analyse_sentiments.ipynb) pour visualiser l'analyse :
+
+```bash
+jupyter notebook Analyse_sentiments.ipynb
+```
+
+## Contribution
+
+Les contributions pour améliorer l'analyse ou étendre l'ensemble de données sont les bienvenues. N'hésitez pas à forker le dépôt, apporter vos modifications et soumettre une pull request.
